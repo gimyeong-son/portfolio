@@ -25,12 +25,15 @@
       src="https://kit.fontawesome.com/cc347cab49.js"
       crossorigin="anonymous"
     ></script>
+    <!-- Typeit -->
+    <script src="https://unpkg.com/typeit@8.7.1/dist/index.umd.js"></script>
     <!-- CSS -->
     <link rel="stylesheet" href="css/style.css" />
     <!-- Javascript -->
     <script type="module" src="src/main.js" defer></script>
     <script type="module" src="src/projects.js" defer></script>
     <script type="module" src="src/active_menu.js" defer></script>
+    <script type="module" src="src/type.js" defer></script>
   </head>
   <body>
     <!-- Header -->
@@ -65,14 +68,17 @@
             src="images/Profile.png"
             alt="Munch's profile"
           />
-          <h2 class="home__title">
+          <h2
+            class="home__title"
+            aria-label="Hello, I'm software engineer Munch"
+          >
             Hello <br />I&#39;m
             <strong class="home__title--strong">Dream Coder</strong>, Munch
           </h2>
           <p class="home__description">
             A software engineer currently residing in Sydney, Australia
           </p>
-          <a class="home__contact" href="#contect">Contact Me</a>
+          <a class="home__contact" href="#contact">Contact Me</a>
         </div>
       </section>
       <!-- About -->

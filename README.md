@@ -16,6 +16,30 @@
 
 - https://m2.material.io/design/color/the-color-system.html#color-theme-creation
 
+5. 물결 스타일링
+
+- https://www.shapedivider.app/
+
+6. 그라디언트
+
+- https://cssgradient.io/
+
+7. svg
+
+- http://svgbackgrounds.com/
+
+8. Color Picker 크롬 익스텐션
+
+- Ultimate Color Picker
+
+9. 타이핑 효과 라이브러리
+
+- https://www.typeitjs.com/
+
+10. 디자인 참고
+
+- https://dribbble.com/shots/popular
+
 ## 기본 CSS
 
 ### Relative vs Absolute
