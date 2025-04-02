@@ -40,6 +40,18 @@
 
 - https://dribbble.com/shots/popular
 
+11. og 이미지 검색, og image dimensions
+
+- Open Graph (OG) image is 1200 x 630 pixels
+
+12. 이미지 조절 (캡쳐 OG 이미지 재조정)
+
+- image resizer 검색
+
+13. png to webp
+
+- https://cloudconvert.com/png-to-webp
+
 ## 기본 CSS
 
 ### Relative vs Absolute
